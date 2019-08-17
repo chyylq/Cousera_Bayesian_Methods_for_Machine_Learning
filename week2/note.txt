@@ -1,1 +1,1 @@
-it seems the results quite depend on initial points.
+It seems the results vary based on different runs, so need mulitple runs to find global optimal.
