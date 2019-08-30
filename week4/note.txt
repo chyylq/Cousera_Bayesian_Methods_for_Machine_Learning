@@ -1,0 +1,7 @@
+MH method performance looks worse than NUTS
+Tried different initial points and varying sigma in proposal distribution, but the algo doesn't converge.
+
+If no gcc in windows, default sample() to python and is really (100 times) slower.
+
+Additional explanation:
+https://stats.stackexchange.com/questions/163399/metropolis-hastings-algorithm-prior-vs-proposal-vs-numerator-of-bayes-theorem
