@@ -1,0 +1,1 @@
+need some knowledge of MINST, keras and tesnor flow 
